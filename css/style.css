@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
 *,
 ::before,
 ::after {
@@ -8,5 +8,70 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  background-color: rgb(190, 171, 142);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+main .modal-button {
+  background-color: rgb(39, 180, 39);
+  padding: 1em;
+  border-radius: 10px;
+  cursor: pointer;
+}
+main .modal-button h1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: white;
+}
+main .hide {
+  display: none;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+section .modal {
+  background-color: #fff;
+  width: 550px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+section .modal .modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5em 1.3em;
+}
+section .modal .modal-header h1 {
+  font-size: 1.3rem;
+  letter-spacing: 0.5px;
+}
+section .modal .modal-header .fa-solid {
+  cursor: pointer;
+}
+section .modal hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
+}
+section .modal .modal-description {
+  padding: 2.5em 1.3em;
+}
+section .modal .modal-description p {
+  font-size: 0.875rem;
+  line-height: 25px;
+  letter-spacing: 0.45px;
+  color: rgb(133, 123, 123);
 }/*# sourceMappingURL=style.css.map */
