@@ -1,0 +1,50 @@
+# Modal
+
+A modal is a dialog box/popup window that is displayed on top of the current page made with HTML, CSS/Sass and JavaScript
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover button elements on the page
+- Show and hide the modal clicking the button
+
+### Screenshot
+
+[![modal](https://user-images.githubusercontent.com/20262557/185830588-2cc03756-3d70-4971-8ede-479e56fbe4ea.JPG)](https://joemar-ceneza.github.io/modal//)
+
+### Links
+
+- Solution URL: [Solution URL here](https://github.com/joemar-ceneza/modal)
+- Live Site URL: [Live site URL here](https://joemar-ceneza.github.io/modal/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS, Sass
+- Flexbox
+- Desktop First Workflow
+- JavaScript
+- AddEventListner
+- *element*.classList.add
+- *element*.classList.remove
+
+### Useful resources
+
+- [Modal Tutorial](https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=421s) by [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+- [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by [John Smilga](https://www.johnsmilga.com/)
