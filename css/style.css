@@ -10,7 +10,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
-  background-color: rgb(190, 171, 142);
+  background-color: rgb(238, 226, 208);
 }
 
 main {
@@ -46,7 +46,7 @@ main section .modal .modal-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5em 1.3em;
+  padding: 1.2em 1em;
 }
 main section .modal .modal-header h1 {
   font-size: 1.3rem;
@@ -54,6 +54,7 @@ main section .modal .modal-header h1 {
 }
 main section .modal .modal-header .fa-solid {
   cursor: pointer;
+  padding: 0.5em;
 }
 main section .modal hr {
   display: block;

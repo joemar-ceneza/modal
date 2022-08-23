@@ -10,7 +10,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-    background-color: rgb(190, 171, 142);
+    background-color: rgb(238, 226, 208);
 }
 main{
     display: flex;
@@ -42,13 +42,14 @@ main{
                 display: flex;
                 justify-content: space-between;
                 align-items: center;
-                padding: 1.5em 1.3em;
+                padding: 1.2em 1em;
                 h1{
                     font-size: 1.3rem;
                     letter-spacing: 0.5px;
                 }
                 .fa-solid{
                     cursor: pointer;
+                    padding: 0.5em;
                 }
             }
             hr{
