@@ -21,6 +21,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover button elements on the page
 - Show and hide the modal clicking the button
+- Automatically closed the model when clicking outside of it.
 
 ### Screenshot
 
