@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![modal](https://user-images.githubusercontent.com/20262557/185830588-2cc03756-3d70-4971-8ede-479e56fbe4ea.JPG)](https://joemar-ceneza.github.io/modal//)
+[![modal](https://user-images.githubusercontent.com/20262557/186148145-058f9d0c-2897-404b-b830-7506e382f522.JPG)](https://joemar-ceneza.github.io/modal//)
 
 ### Links
 
@@ -41,8 +41,7 @@ Users should be able to:
 - Desktop First Workflow
 - JavaScript
 - AddEventListner
-- *element*.classList.add
-- *element*.classList.remove
+- classList.add and classList.remove
 
 ### Useful resources
 
