@@ -41,8 +41,7 @@ Users should be able to:
 - Desktop First Workflow
 - JavaScript
 - AddEventListner
-- *element*.classList.add
-- *element*.classList.remove
+- classList.add and classList.remove
 
 ### Useful resources
 
