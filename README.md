@@ -11,9 +11,6 @@ A modal is a dialog box/popup window that is displayed on top of the current pag
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Front End Style](#front-end-style-guide)
-- [Colors](#colors)
-- [Typography](#typography)
 
 ## Overview
 
